@@ -1,0 +1,14 @@
+D:\C#\C#\CSharpNangCao\StackExample\bin\Debug\net6.0\StackExample.exe
+D:\C#\C#\CSharpNangCao\StackExample\bin\Debug\net6.0\StackExample.deps.json
+D:\C#\C#\CSharpNangCao\StackExample\bin\Debug\net6.0\StackExample.runtimeconfig.json
+D:\C#\C#\CSharpNangCao\StackExample\bin\Debug\net6.0\StackExample.dll
+D:\C#\C#\CSharpNangCao\StackExample\bin\Debug\net6.0\StackExample.pdb
+D:\C#\C#\CSharpNangCao\StackExample\obj\Debug\net6.0\StackExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#\CSharpNangCao\StackExample\obj\Debug\net6.0\StackExample.AssemblyInfoInputs.cache
+D:\C#\C#\CSharpNangCao\StackExample\obj\Debug\net6.0\StackExample.AssemblyInfo.cs
+D:\C#\C#\CSharpNangCao\StackExample\obj\Debug\net6.0\StackExample.csproj.CoreCompileInputs.cache
+D:\C#\C#\CSharpNangCao\StackExample\obj\Debug\net6.0\StackExample.dll
+D:\C#\C#\CSharpNangCao\StackExample\obj\Debug\net6.0\refint\StackExample.dll
+D:\C#\C#\CSharpNangCao\StackExample\obj\Debug\net6.0\StackExample.pdb
+D:\C#\C#\CSharpNangCao\StackExample\obj\Debug\net6.0\StackExample.genruntimeconfig.cache
+D:\C#\C#\CSharpNangCao\StackExample\obj\Debug\net6.0\ref\StackExample.dll

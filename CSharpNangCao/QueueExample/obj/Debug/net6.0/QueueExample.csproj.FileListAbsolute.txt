@@ -1,0 +1,14 @@
+D:\C#\C#\CSharpNangCao\QueueExample\bin\Debug\net6.0\QueueExample.exe
+D:\C#\C#\CSharpNangCao\QueueExample\bin\Debug\net6.0\QueueExample.deps.json
+D:\C#\C#\CSharpNangCao\QueueExample\bin\Debug\net6.0\QueueExample.runtimeconfig.json
+D:\C#\C#\CSharpNangCao\QueueExample\bin\Debug\net6.0\QueueExample.dll
+D:\C#\C#\CSharpNangCao\QueueExample\bin\Debug\net6.0\QueueExample.pdb
+D:\C#\C#\CSharpNangCao\QueueExample\obj\Debug\net6.0\QueueExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#\CSharpNangCao\QueueExample\obj\Debug\net6.0\QueueExample.AssemblyInfoInputs.cache
+D:\C#\C#\CSharpNangCao\QueueExample\obj\Debug\net6.0\QueueExample.AssemblyInfo.cs
+D:\C#\C#\CSharpNangCao\QueueExample\obj\Debug\net6.0\QueueExample.csproj.CoreCompileInputs.cache
+D:\C#\C#\CSharpNangCao\QueueExample\obj\Debug\net6.0\QueueExample.dll
+D:\C#\C#\CSharpNangCao\QueueExample\obj\Debug\net6.0\refint\QueueExample.dll
+D:\C#\C#\CSharpNangCao\QueueExample\obj\Debug\net6.0\QueueExample.pdb
+D:\C#\C#\CSharpNangCao\QueueExample\obj\Debug\net6.0\QueueExample.genruntimeconfig.cache
+D:\C#\C#\CSharpNangCao\QueueExample\obj\Debug\net6.0\ref\QueueExample.dll

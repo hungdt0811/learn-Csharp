@@ -1,0 +1,14 @@
+D:\Hùng\C#\Networking\Ping_Example\bin\Debug\net6.0\Ping_Example.exe
+D:\Hùng\C#\Networking\Ping_Example\bin\Debug\net6.0\Ping_Example.deps.json
+D:\Hùng\C#\Networking\Ping_Example\bin\Debug\net6.0\Ping_Example.runtimeconfig.json
+D:\Hùng\C#\Networking\Ping_Example\bin\Debug\net6.0\Ping_Example.dll
+D:\Hùng\C#\Networking\Ping_Example\bin\Debug\net6.0\Ping_Example.pdb
+D:\Hùng\C#\Networking\Ping_Example\obj\Debug\net6.0\Ping_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hùng\C#\Networking\Ping_Example\obj\Debug\net6.0\Ping_Example.AssemblyInfoInputs.cache
+D:\Hùng\C#\Networking\Ping_Example\obj\Debug\net6.0\Ping_Example.AssemblyInfo.cs
+D:\Hùng\C#\Networking\Ping_Example\obj\Debug\net6.0\Ping_Example.csproj.CoreCompileInputs.cache
+D:\Hùng\C#\Networking\Ping_Example\obj\Debug\net6.0\Ping_Example.dll
+D:\Hùng\C#\Networking\Ping_Example\obj\Debug\net6.0\refint\Ping_Example.dll
+D:\Hùng\C#\Networking\Ping_Example\obj\Debug\net6.0\Ping_Example.pdb
+D:\Hùng\C#\Networking\Ping_Example\obj\Debug\net6.0\Ping_Example.genruntimeconfig.cache
+D:\Hùng\C#\Networking\Ping_Example\obj\Debug\net6.0\ref\Ping_Example.dll

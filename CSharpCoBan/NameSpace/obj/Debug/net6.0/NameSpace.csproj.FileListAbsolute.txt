@@ -1,0 +1,14 @@
+D:\Hùng\C#\CSharpCoBan\NameSpace\bin\Debug\net6.0\NameSpace.exe
+D:\Hùng\C#\CSharpCoBan\NameSpace\bin\Debug\net6.0\NameSpace.deps.json
+D:\Hùng\C#\CSharpCoBan\NameSpace\bin\Debug\net6.0\NameSpace.runtimeconfig.json
+D:\Hùng\C#\CSharpCoBan\NameSpace\bin\Debug\net6.0\NameSpace.dll
+D:\Hùng\C#\CSharpCoBan\NameSpace\bin\Debug\net6.0\NameSpace.pdb
+D:\Hùng\C#\CSharpCoBan\NameSpace\obj\Debug\net6.0\NameSpace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hùng\C#\CSharpCoBan\NameSpace\obj\Debug\net6.0\NameSpace.AssemblyInfoInputs.cache
+D:\Hùng\C#\CSharpCoBan\NameSpace\obj\Debug\net6.0\NameSpace.AssemblyInfo.cs
+D:\Hùng\C#\CSharpCoBan\NameSpace\obj\Debug\net6.0\NameSpace.csproj.CoreCompileInputs.cache
+D:\Hùng\C#\CSharpCoBan\NameSpace\obj\Debug\net6.0\NameSpace.dll
+D:\Hùng\C#\CSharpCoBan\NameSpace\obj\Debug\net6.0\refint\NameSpace.dll
+D:\Hùng\C#\CSharpCoBan\NameSpace\obj\Debug\net6.0\NameSpace.pdb
+D:\Hùng\C#\CSharpCoBan\NameSpace\obj\Debug\net6.0\NameSpace.genruntimeconfig.cache
+D:\Hùng\C#\CSharpCoBan\NameSpace\obj\Debug\net6.0\ref\NameSpace.dll

@@ -1,0 +1,14 @@
+D:\C#\C#\CSharpNangCao\HashSetExample\bin\Debug\net6.0\HashSetExample.exe
+D:\C#\C#\CSharpNangCao\HashSetExample\bin\Debug\net6.0\HashSetExample.deps.json
+D:\C#\C#\CSharpNangCao\HashSetExample\bin\Debug\net6.0\HashSetExample.runtimeconfig.json
+D:\C#\C#\CSharpNangCao\HashSetExample\bin\Debug\net6.0\HashSetExample.dll
+D:\C#\C#\CSharpNangCao\HashSetExample\bin\Debug\net6.0\HashSetExample.pdb
+D:\C#\C#\CSharpNangCao\HashSetExample\obj\Debug\net6.0\HashSetExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#\CSharpNangCao\HashSetExample\obj\Debug\net6.0\HashSetExample.AssemblyInfoInputs.cache
+D:\C#\C#\CSharpNangCao\HashSetExample\obj\Debug\net6.0\HashSetExample.AssemblyInfo.cs
+D:\C#\C#\CSharpNangCao\HashSetExample\obj\Debug\net6.0\HashSetExample.csproj.CoreCompileInputs.cache
+D:\C#\C#\CSharpNangCao\HashSetExample\obj\Debug\net6.0\HashSetExample.dll
+D:\C#\C#\CSharpNangCao\HashSetExample\obj\Debug\net6.0\refint\HashSetExample.dll
+D:\C#\C#\CSharpNangCao\HashSetExample\obj\Debug\net6.0\HashSetExample.pdb
+D:\C#\C#\CSharpNangCao\HashSetExample\obj\Debug\net6.0\HashSetExample.genruntimeconfig.cache
+D:\C#\C#\CSharpNangCao\HashSetExample\obj\Debug\net6.0\ref\HashSetExample.dll

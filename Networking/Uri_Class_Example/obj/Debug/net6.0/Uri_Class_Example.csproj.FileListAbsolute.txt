@@ -1,0 +1,14 @@
+D:\Hùng\C#\Networking\Uri_Class_Example\bin\Debug\net6.0\Uri_Class_Example.exe
+D:\Hùng\C#\Networking\Uri_Class_Example\bin\Debug\net6.0\Uri_Class_Example.deps.json
+D:\Hùng\C#\Networking\Uri_Class_Example\bin\Debug\net6.0\Uri_Class_Example.runtimeconfig.json
+D:\Hùng\C#\Networking\Uri_Class_Example\bin\Debug\net6.0\Uri_Class_Example.dll
+D:\Hùng\C#\Networking\Uri_Class_Example\bin\Debug\net6.0\Uri_Class_Example.pdb
+D:\Hùng\C#\Networking\Uri_Class_Example\obj\Debug\net6.0\Uri_Class_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hùng\C#\Networking\Uri_Class_Example\obj\Debug\net6.0\Uri_Class_Example.AssemblyInfoInputs.cache
+D:\Hùng\C#\Networking\Uri_Class_Example\obj\Debug\net6.0\Uri_Class_Example.AssemblyInfo.cs
+D:\Hùng\C#\Networking\Uri_Class_Example\obj\Debug\net6.0\Uri_Class_Example.csproj.CoreCompileInputs.cache
+D:\Hùng\C#\Networking\Uri_Class_Example\obj\Debug\net6.0\Uri_Class_Example.dll
+D:\Hùng\C#\Networking\Uri_Class_Example\obj\Debug\net6.0\refint\Uri_Class_Example.dll
+D:\Hùng\C#\Networking\Uri_Class_Example\obj\Debug\net6.0\Uri_Class_Example.pdb
+D:\Hùng\C#\Networking\Uri_Class_Example\obj\Debug\net6.0\Uri_Class_Example.genruntimeconfig.cache
+D:\Hùng\C#\Networking\Uri_Class_Example\obj\Debug\net6.0\ref\Uri_Class_Example.dll

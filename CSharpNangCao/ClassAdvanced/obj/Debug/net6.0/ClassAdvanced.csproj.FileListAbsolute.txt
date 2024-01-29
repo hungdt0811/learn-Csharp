@@ -1,0 +1,14 @@
+D:\C#\C#\CSharpNangCao\ClassAdvanced\bin\Debug\net6.0\ClassAdvanced.exe
+D:\C#\C#\CSharpNangCao\ClassAdvanced\bin\Debug\net6.0\ClassAdvanced.deps.json
+D:\C#\C#\CSharpNangCao\ClassAdvanced\bin\Debug\net6.0\ClassAdvanced.runtimeconfig.json
+D:\C#\C#\CSharpNangCao\ClassAdvanced\bin\Debug\net6.0\ClassAdvanced.dll
+D:\C#\C#\CSharpNangCao\ClassAdvanced\bin\Debug\net6.0\ClassAdvanced.pdb
+D:\C#\C#\CSharpNangCao\ClassAdvanced\obj\Debug\net6.0\ClassAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#\CSharpNangCao\ClassAdvanced\obj\Debug\net6.0\ClassAdvanced.AssemblyInfoInputs.cache
+D:\C#\C#\CSharpNangCao\ClassAdvanced\obj\Debug\net6.0\ClassAdvanced.AssemblyInfo.cs
+D:\C#\C#\CSharpNangCao\ClassAdvanced\obj\Debug\net6.0\ClassAdvanced.csproj.CoreCompileInputs.cache
+D:\C#\C#\CSharpNangCao\ClassAdvanced\obj\Debug\net6.0\ClassAdvanced.dll
+D:\C#\C#\CSharpNangCao\ClassAdvanced\obj\Debug\net6.0\refint\ClassAdvanced.dll
+D:\C#\C#\CSharpNangCao\ClassAdvanced\obj\Debug\net6.0\ClassAdvanced.pdb
+D:\C#\C#\CSharpNangCao\ClassAdvanced\obj\Debug\net6.0\ClassAdvanced.genruntimeconfig.cache
+D:\C#\C#\CSharpNangCao\ClassAdvanced\obj\Debug\net6.0\ref\ClassAdvanced.dll

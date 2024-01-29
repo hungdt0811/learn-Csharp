@@ -1,0 +1,14 @@
+D:\C#\C#\CSharpNangCao\Data_Annotation_Attribute\bin\Debug\net6.0\Data_Annotation_Attribute.exe
+D:\C#\C#\CSharpNangCao\Data_Annotation_Attribute\bin\Debug\net6.0\Data_Annotation_Attribute.deps.json
+D:\C#\C#\CSharpNangCao\Data_Annotation_Attribute\bin\Debug\net6.0\Data_Annotation_Attribute.runtimeconfig.json
+D:\C#\C#\CSharpNangCao\Data_Annotation_Attribute\bin\Debug\net6.0\Data_Annotation_Attribute.dll
+D:\C#\C#\CSharpNangCao\Data_Annotation_Attribute\bin\Debug\net6.0\Data_Annotation_Attribute.pdb
+D:\C#\C#\CSharpNangCao\Data_Annotation_Attribute\obj\Debug\net6.0\Data_Annotation_Attribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#\CSharpNangCao\Data_Annotation_Attribute\obj\Debug\net6.0\Data_Annotation_Attribute.AssemblyInfoInputs.cache
+D:\C#\C#\CSharpNangCao\Data_Annotation_Attribute\obj\Debug\net6.0\Data_Annotation_Attribute.AssemblyInfo.cs
+D:\C#\C#\CSharpNangCao\Data_Annotation_Attribute\obj\Debug\net6.0\Data_Annotation_Attribute.csproj.CoreCompileInputs.cache
+D:\C#\C#\CSharpNangCao\Data_Annotation_Attribute\obj\Debug\net6.0\Data_Annotation_Attribute.dll
+D:\C#\C#\CSharpNangCao\Data_Annotation_Attribute\obj\Debug\net6.0\refint\Data_Annotation_Attribute.dll
+D:\C#\C#\CSharpNangCao\Data_Annotation_Attribute\obj\Debug\net6.0\Data_Annotation_Attribute.pdb
+D:\C#\C#\CSharpNangCao\Data_Annotation_Attribute\obj\Debug\net6.0\Data_Annotation_Attribute.genruntimeconfig.cache
+D:\C#\C#\CSharpNangCao\Data_Annotation_Attribute\obj\Debug\net6.0\ref\Data_Annotation_Attribute.dll

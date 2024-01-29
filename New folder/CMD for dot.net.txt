@@ -1,0 +1,4 @@
+dotnet --list-sdks		liệt kê tất cả các SDKs .NET được cài đặt trên máy
+dotnet new --list			danh sách đầy đủ các mẫu hiện có
+
+dotnet new web -f net5.0	build dự án theo phiên bản .net 5.0

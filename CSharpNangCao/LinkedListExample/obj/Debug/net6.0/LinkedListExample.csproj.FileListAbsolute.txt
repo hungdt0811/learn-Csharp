@@ -1,0 +1,14 @@
+D:\C#\C#\CSharpNangCao\LinkedListExample\bin\Debug\net6.0\LinkedListExample.exe
+D:\C#\C#\CSharpNangCao\LinkedListExample\bin\Debug\net6.0\LinkedListExample.deps.json
+D:\C#\C#\CSharpNangCao\LinkedListExample\bin\Debug\net6.0\LinkedListExample.runtimeconfig.json
+D:\C#\C#\CSharpNangCao\LinkedListExample\bin\Debug\net6.0\LinkedListExample.dll
+D:\C#\C#\CSharpNangCao\LinkedListExample\bin\Debug\net6.0\LinkedListExample.pdb
+D:\C#\C#\CSharpNangCao\LinkedListExample\obj\Debug\net6.0\LinkedListExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#\CSharpNangCao\LinkedListExample\obj\Debug\net6.0\LinkedListExample.AssemblyInfoInputs.cache
+D:\C#\C#\CSharpNangCao\LinkedListExample\obj\Debug\net6.0\LinkedListExample.AssemblyInfo.cs
+D:\C#\C#\CSharpNangCao\LinkedListExample\obj\Debug\net6.0\LinkedListExample.csproj.CoreCompileInputs.cache
+D:\C#\C#\CSharpNangCao\LinkedListExample\obj\Debug\net6.0\LinkedListExample.dll
+D:\C#\C#\CSharpNangCao\LinkedListExample\obj\Debug\net6.0\refint\LinkedListExample.dll
+D:\C#\C#\CSharpNangCao\LinkedListExample\obj\Debug\net6.0\LinkedListExample.pdb
+D:\C#\C#\CSharpNangCao\LinkedListExample\obj\Debug\net6.0\LinkedListExample.genruntimeconfig.cache
+D:\C#\C#\CSharpNangCao\LinkedListExample\obj\Debug\net6.0\ref\LinkedListExample.dll

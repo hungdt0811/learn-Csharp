@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AnonymousAndDynamic/1.0.0": {
+        "runtime": {
+          "AnonymousAndDynamic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnonymousAndDynamic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

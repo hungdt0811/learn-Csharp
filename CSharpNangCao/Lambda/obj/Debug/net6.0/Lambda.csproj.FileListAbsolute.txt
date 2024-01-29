@@ -1,0 +1,14 @@
+D:\C#\C#\CSharpNangCao\Lambda\bin\Debug\net6.0\Lambda.exe
+D:\C#\C#\CSharpNangCao\Lambda\bin\Debug\net6.0\Lambda.deps.json
+D:\C#\C#\CSharpNangCao\Lambda\bin\Debug\net6.0\Lambda.runtimeconfig.json
+D:\C#\C#\CSharpNangCao\Lambda\bin\Debug\net6.0\Lambda.dll
+D:\C#\C#\CSharpNangCao\Lambda\bin\Debug\net6.0\Lambda.pdb
+D:\C#\C#\CSharpNangCao\Lambda\obj\Debug\net6.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#\CSharpNangCao\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfoInputs.cache
+D:\C#\C#\CSharpNangCao\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfo.cs
+D:\C#\C#\CSharpNangCao\Lambda\obj\Debug\net6.0\Lambda.csproj.CoreCompileInputs.cache
+D:\C#\C#\CSharpNangCao\Lambda\obj\Debug\net6.0\Lambda.dll
+D:\C#\C#\CSharpNangCao\Lambda\obj\Debug\net6.0\refint\Lambda.dll
+D:\C#\C#\CSharpNangCao\Lambda\obj\Debug\net6.0\Lambda.pdb
+D:\C#\C#\CSharpNangCao\Lambda\obj\Debug\net6.0\Lambda.genruntimeconfig.cache
+D:\C#\C#\CSharpNangCao\Lambda\obj\Debug\net6.0\ref\Lambda.dll

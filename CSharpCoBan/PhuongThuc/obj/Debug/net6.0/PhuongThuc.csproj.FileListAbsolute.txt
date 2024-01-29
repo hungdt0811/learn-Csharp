@@ -1,0 +1,14 @@
+D:\Hùng\C#\CSharpCoBan\PhuongThuc\bin\Debug\net6.0\PhuongThuc.exe
+D:\Hùng\C#\CSharpCoBan\PhuongThuc\bin\Debug\net6.0\PhuongThuc.deps.json
+D:\Hùng\C#\CSharpCoBan\PhuongThuc\bin\Debug\net6.0\PhuongThuc.runtimeconfig.json
+D:\Hùng\C#\CSharpCoBan\PhuongThuc\bin\Debug\net6.0\PhuongThuc.dll
+D:\Hùng\C#\CSharpCoBan\PhuongThuc\bin\Debug\net6.0\PhuongThuc.pdb
+D:\Hùng\C#\CSharpCoBan\PhuongThuc\obj\Debug\net6.0\PhuongThuc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hùng\C#\CSharpCoBan\PhuongThuc\obj\Debug\net6.0\PhuongThuc.AssemblyInfoInputs.cache
+D:\Hùng\C#\CSharpCoBan\PhuongThuc\obj\Debug\net6.0\PhuongThuc.AssemblyInfo.cs
+D:\Hùng\C#\CSharpCoBan\PhuongThuc\obj\Debug\net6.0\PhuongThuc.csproj.CoreCompileInputs.cache
+D:\Hùng\C#\CSharpCoBan\PhuongThuc\obj\Debug\net6.0\PhuongThuc.dll
+D:\Hùng\C#\CSharpCoBan\PhuongThuc\obj\Debug\net6.0\refint\PhuongThuc.dll
+D:\Hùng\C#\CSharpCoBan\PhuongThuc\obj\Debug\net6.0\PhuongThuc.pdb
+D:\Hùng\C#\CSharpCoBan\PhuongThuc\obj\Debug\net6.0\PhuongThuc.genruntimeconfig.cache
+D:\Hùng\C#\CSharpCoBan\PhuongThuc\obj\Debug\net6.0\ref\PhuongThuc.dll

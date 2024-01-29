@@ -1,0 +1,14 @@
+D:\C#\C#\CSharpNangCao\Exception\bin\Debug\net6.0\Exception.exe
+D:\C#\C#\CSharpNangCao\Exception\bin\Debug\net6.0\Exception.deps.json
+D:\C#\C#\CSharpNangCao\Exception\bin\Debug\net6.0\Exception.runtimeconfig.json
+D:\C#\C#\CSharpNangCao\Exception\bin\Debug\net6.0\Exception.dll
+D:\C#\C#\CSharpNangCao\Exception\bin\Debug\net6.0\Exception.pdb
+D:\C#\C#\CSharpNangCao\Exception\obj\Debug\net6.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#\CSharpNangCao\Exception\obj\Debug\net6.0\Exception.AssemblyInfoInputs.cache
+D:\C#\C#\CSharpNangCao\Exception\obj\Debug\net6.0\Exception.AssemblyInfo.cs
+D:\C#\C#\CSharpNangCao\Exception\obj\Debug\net6.0\Exception.csproj.CoreCompileInputs.cache
+D:\C#\C#\CSharpNangCao\Exception\obj\Debug\net6.0\Exception.dll
+D:\C#\C#\CSharpNangCao\Exception\obj\Debug\net6.0\refint\Exception.dll
+D:\C#\C#\CSharpNangCao\Exception\obj\Debug\net6.0\Exception.pdb
+D:\C#\C#\CSharpNangCao\Exception\obj\Debug\net6.0\Exception.genruntimeconfig.cache
+D:\C#\C#\CSharpNangCao\Exception\obj\Debug\net6.0\ref\Exception.dll

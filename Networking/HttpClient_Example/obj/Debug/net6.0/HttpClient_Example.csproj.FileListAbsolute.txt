@@ -1,0 +1,14 @@
+D:\Hùng\C#\Networking\HttpClient_Example\obj\Debug\net6.0\HttpClient_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hùng\C#\Networking\HttpClient_Example\obj\Debug\net6.0\HttpClient_Example.AssemblyInfoInputs.cache
+D:\Hùng\C#\Networking\HttpClient_Example\obj\Debug\net6.0\HttpClient_Example.AssemblyInfo.cs
+D:\Hùng\C#\Networking\HttpClient_Example\obj\Debug\net6.0\HttpClient_Example.csproj.CoreCompileInputs.cache
+D:\Hùng\C#\Networking\HttpClient_Example\bin\Debug\net6.0\HttpClient_Example.exe
+D:\Hùng\C#\Networking\HttpClient_Example\bin\Debug\net6.0\HttpClient_Example.deps.json
+D:\Hùng\C#\Networking\HttpClient_Example\bin\Debug\net6.0\HttpClient_Example.runtimeconfig.json
+D:\Hùng\C#\Networking\HttpClient_Example\bin\Debug\net6.0\HttpClient_Example.dll
+D:\Hùng\C#\Networking\HttpClient_Example\bin\Debug\net6.0\HttpClient_Example.pdb
+D:\Hùng\C#\Networking\HttpClient_Example\obj\Debug\net6.0\HttpClient_Example.dll
+D:\Hùng\C#\Networking\HttpClient_Example\obj\Debug\net6.0\refint\HttpClient_Example.dll
+D:\Hùng\C#\Networking\HttpClient_Example\obj\Debug\net6.0\HttpClient_Example.pdb
+D:\Hùng\C#\Networking\HttpClient_Example\obj\Debug\net6.0\HttpClient_Example.genruntimeconfig.cache
+D:\Hùng\C#\Networking\HttpClient_Example\obj\Debug\net6.0\ref\HttpClient_Example.dll

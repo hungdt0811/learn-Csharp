@@ -1,0 +1,14 @@
+D:\C#\C#\CSharpNangCao\ListExample\bin\Debug\net6.0\ListExample.exe
+D:\C#\C#\CSharpNangCao\ListExample\bin\Debug\net6.0\ListExample.deps.json
+D:\C#\C#\CSharpNangCao\ListExample\bin\Debug\net6.0\ListExample.runtimeconfig.json
+D:\C#\C#\CSharpNangCao\ListExample\bin\Debug\net6.0\ListExample.dll
+D:\C#\C#\CSharpNangCao\ListExample\bin\Debug\net6.0\ListExample.pdb
+D:\C#\C#\CSharpNangCao\ListExample\obj\Debug\net6.0\ListExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#\CSharpNangCao\ListExample\obj\Debug\net6.0\ListExample.AssemblyInfoInputs.cache
+D:\C#\C#\CSharpNangCao\ListExample\obj\Debug\net6.0\ListExample.AssemblyInfo.cs
+D:\C#\C#\CSharpNangCao\ListExample\obj\Debug\net6.0\ListExample.csproj.CoreCompileInputs.cache
+D:\C#\C#\CSharpNangCao\ListExample\obj\Debug\net6.0\ListExample.dll
+D:\C#\C#\CSharpNangCao\ListExample\obj\Debug\net6.0\refint\ListExample.dll
+D:\C#\C#\CSharpNangCao\ListExample\obj\Debug\net6.0\ListExample.pdb
+D:\C#\C#\CSharpNangCao\ListExample\obj\Debug\net6.0\ListExample.genruntimeconfig.cache
+D:\C#\C#\CSharpNangCao\ListExample\obj\Debug\net6.0\ref\ListExample.dll

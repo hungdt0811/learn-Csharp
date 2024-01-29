@@ -1,0 +1,14 @@
+D:\C#\C#\CSharpCoBan\AnonymousAndDynamic\bin\Debug\net6.0\AnonymousAndDynamic.exe
+D:\C#\C#\CSharpCoBan\AnonymousAndDynamic\bin\Debug\net6.0\AnonymousAndDynamic.deps.json
+D:\C#\C#\CSharpCoBan\AnonymousAndDynamic\bin\Debug\net6.0\AnonymousAndDynamic.runtimeconfig.json
+D:\C#\C#\CSharpCoBan\AnonymousAndDynamic\bin\Debug\net6.0\AnonymousAndDynamic.dll
+D:\C#\C#\CSharpCoBan\AnonymousAndDynamic\bin\Debug\net6.0\AnonymousAndDynamic.pdb
+D:\C#\C#\CSharpCoBan\AnonymousAndDynamic\obj\Debug\net6.0\AnonymousAndDynamic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#\CSharpCoBan\AnonymousAndDynamic\obj\Debug\net6.0\AnonymousAndDynamic.AssemblyInfoInputs.cache
+D:\C#\C#\CSharpCoBan\AnonymousAndDynamic\obj\Debug\net6.0\AnonymousAndDynamic.AssemblyInfo.cs
+D:\C#\C#\CSharpCoBan\AnonymousAndDynamic\obj\Debug\net6.0\AnonymousAndDynamic.csproj.CoreCompileInputs.cache
+D:\C#\C#\CSharpCoBan\AnonymousAndDynamic\obj\Debug\net6.0\AnonymousAndDynamic.dll
+D:\C#\C#\CSharpCoBan\AnonymousAndDynamic\obj\Debug\net6.0\refint\AnonymousAndDynamic.dll
+D:\C#\C#\CSharpCoBan\AnonymousAndDynamic\obj\Debug\net6.0\AnonymousAndDynamic.pdb
+D:\C#\C#\CSharpCoBan\AnonymousAndDynamic\obj\Debug\net6.0\AnonymousAndDynamic.genruntimeconfig.cache
+D:\C#\C#\CSharpCoBan\AnonymousAndDynamic\obj\Debug\net6.0\ref\AnonymousAndDynamic.dll

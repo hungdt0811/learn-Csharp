@@ -1,0 +1,14 @@
+D:\C#\C#\CSharpCoBan\Inerface\bin\Debug\net6.0\Inerface.exe
+D:\C#\C#\CSharpCoBan\Inerface\bin\Debug\net6.0\Inerface.deps.json
+D:\C#\C#\CSharpCoBan\Inerface\bin\Debug\net6.0\Inerface.runtimeconfig.json
+D:\C#\C#\CSharpCoBan\Inerface\bin\Debug\net6.0\Inerface.dll
+D:\C#\C#\CSharpCoBan\Inerface\bin\Debug\net6.0\Inerface.pdb
+D:\C#\C#\CSharpCoBan\Inerface\obj\Debug\net6.0\Inerface.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#\CSharpCoBan\Inerface\obj\Debug\net6.0\Inerface.AssemblyInfoInputs.cache
+D:\C#\C#\CSharpCoBan\Inerface\obj\Debug\net6.0\Inerface.AssemblyInfo.cs
+D:\C#\C#\CSharpCoBan\Inerface\obj\Debug\net6.0\Inerface.csproj.CoreCompileInputs.cache
+D:\C#\C#\CSharpCoBan\Inerface\obj\Debug\net6.0\Inerface.dll
+D:\C#\C#\CSharpCoBan\Inerface\obj\Debug\net6.0\refint\Inerface.dll
+D:\C#\C#\CSharpCoBan\Inerface\obj\Debug\net6.0\Inerface.pdb
+D:\C#\C#\CSharpCoBan\Inerface\obj\Debug\net6.0\Inerface.genruntimeconfig.cache
+D:\C#\C#\CSharpCoBan\Inerface\obj\Debug\net6.0\ref\Inerface.dll

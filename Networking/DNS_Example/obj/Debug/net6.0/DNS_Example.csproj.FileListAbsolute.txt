@@ -1,0 +1,14 @@
+D:\Hùng\C#\Networking\DNS_Example\bin\Debug\net6.0\DNS_Example.exe
+D:\Hùng\C#\Networking\DNS_Example\bin\Debug\net6.0\DNS_Example.deps.json
+D:\Hùng\C#\Networking\DNS_Example\bin\Debug\net6.0\DNS_Example.runtimeconfig.json
+D:\Hùng\C#\Networking\DNS_Example\bin\Debug\net6.0\DNS_Example.dll
+D:\Hùng\C#\Networking\DNS_Example\bin\Debug\net6.0\DNS_Example.pdb
+D:\Hùng\C#\Networking\DNS_Example\obj\Debug\net6.0\DNS_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hùng\C#\Networking\DNS_Example\obj\Debug\net6.0\DNS_Example.AssemblyInfoInputs.cache
+D:\Hùng\C#\Networking\DNS_Example\obj\Debug\net6.0\DNS_Example.AssemblyInfo.cs
+D:\Hùng\C#\Networking\DNS_Example\obj\Debug\net6.0\DNS_Example.csproj.CoreCompileInputs.cache
+D:\Hùng\C#\Networking\DNS_Example\obj\Debug\net6.0\DNS_Example.dll
+D:\Hùng\C#\Networking\DNS_Example\obj\Debug\net6.0\refint\DNS_Example.dll
+D:\Hùng\C#\Networking\DNS_Example\obj\Debug\net6.0\DNS_Example.pdb
+D:\Hùng\C#\Networking\DNS_Example\obj\Debug\net6.0\DNS_Example.genruntimeconfig.cache
+D:\Hùng\C#\Networking\DNS_Example\obj\Debug\net6.0\ref\DNS_Example.dll

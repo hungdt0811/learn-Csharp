@@ -1,0 +1,14 @@
+D:\C#\C#\CSharpNangCao\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.exe
+D:\C#\C#\CSharpNangCao\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.deps.json
+D:\C#\C#\CSharpNangCao\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.runtimeconfig.json
+D:\C#\C#\CSharpNangCao\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.dll
+D:\C#\C#\CSharpNangCao\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.pdb
+D:\C#\C#\CSharpNangCao\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#\CSharpNangCao\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfoInputs.cache
+D:\C#\C#\CSharpNangCao\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfo.cs
+D:\C#\C#\CSharpNangCao\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\C#\C#\CSharpNangCao\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.dll
+D:\C#\C#\CSharpNangCao\ExtensionMethod\obj\Debug\net6.0\refint\ExtensionMethod.dll
+D:\C#\C#\CSharpNangCao\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.pdb
+D:\C#\C#\CSharpNangCao\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.genruntimeconfig.cache
+D:\C#\C#\CSharpNangCao\ExtensionMethod\obj\Debug\net6.0\ref\ExtensionMethod.dll

@@ -1,0 +1,14 @@
+C:\Users\hungt\Downloads\C#\C#\CSharpNangCao\Async_Await_With_Return\bin\Debug\net6.0\Async_Await_With_Return.exe
+C:\Users\hungt\Downloads\C#\C#\CSharpNangCao\Async_Await_With_Return\bin\Debug\net6.0\Async_Await_With_Return.deps.json
+C:\Users\hungt\Downloads\C#\C#\CSharpNangCao\Async_Await_With_Return\bin\Debug\net6.0\Async_Await_With_Return.runtimeconfig.json
+C:\Users\hungt\Downloads\C#\C#\CSharpNangCao\Async_Await_With_Return\bin\Debug\net6.0\Async_Await_With_Return.dll
+C:\Users\hungt\Downloads\C#\C#\CSharpNangCao\Async_Await_With_Return\bin\Debug\net6.0\Async_Await_With_Return.pdb
+C:\Users\hungt\Downloads\C#\C#\CSharpNangCao\Async_Await_With_Return\obj\Debug\net6.0\Async_Await_With_Return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungt\Downloads\C#\C#\CSharpNangCao\Async_Await_With_Return\obj\Debug\net6.0\Async_Await_With_Return.AssemblyInfoInputs.cache
+C:\Users\hungt\Downloads\C#\C#\CSharpNangCao\Async_Await_With_Return\obj\Debug\net6.0\Async_Await_With_Return.AssemblyInfo.cs
+C:\Users\hungt\Downloads\C#\C#\CSharpNangCao\Async_Await_With_Return\obj\Debug\net6.0\Async_Await_With_Return.csproj.CoreCompileInputs.cache
+C:\Users\hungt\Downloads\C#\C#\CSharpNangCao\Async_Await_With_Return\obj\Debug\net6.0\Async_Await_With_Return.dll
+C:\Users\hungt\Downloads\C#\C#\CSharpNangCao\Async_Await_With_Return\obj\Debug\net6.0\refint\Async_Await_With_Return.dll
+C:\Users\hungt\Downloads\C#\C#\CSharpNangCao\Async_Await_With_Return\obj\Debug\net6.0\Async_Await_With_Return.pdb
+C:\Users\hungt\Downloads\C#\C#\CSharpNangCao\Async_Await_With_Return\obj\Debug\net6.0\Async_Await_With_Return.genruntimeconfig.cache
+C:\Users\hungt\Downloads\C#\C#\CSharpNangCao\Async_Await_With_Return\obj\Debug\net6.0\ref\Async_Await_With_Return.dll

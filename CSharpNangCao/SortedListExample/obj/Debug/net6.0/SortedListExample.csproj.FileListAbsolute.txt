@@ -1,0 +1,14 @@
+D:\C#\C#\CSharpNangCao\SortedListExample\bin\Debug\net6.0\SortedListExample.exe
+D:\C#\C#\CSharpNangCao\SortedListExample\bin\Debug\net6.0\SortedListExample.deps.json
+D:\C#\C#\CSharpNangCao\SortedListExample\bin\Debug\net6.0\SortedListExample.runtimeconfig.json
+D:\C#\C#\CSharpNangCao\SortedListExample\bin\Debug\net6.0\SortedListExample.dll
+D:\C#\C#\CSharpNangCao\SortedListExample\bin\Debug\net6.0\SortedListExample.pdb
+D:\C#\C#\CSharpNangCao\SortedListExample\obj\Debug\net6.0\SortedListExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#\CSharpNangCao\SortedListExample\obj\Debug\net6.0\SortedListExample.AssemblyInfoInputs.cache
+D:\C#\C#\CSharpNangCao\SortedListExample\obj\Debug\net6.0\SortedListExample.AssemblyInfo.cs
+D:\C#\C#\CSharpNangCao\SortedListExample\obj\Debug\net6.0\SortedListExample.csproj.CoreCompileInputs.cache
+D:\C#\C#\CSharpNangCao\SortedListExample\obj\Debug\net6.0\SortedListExample.dll
+D:\C#\C#\CSharpNangCao\SortedListExample\obj\Debug\net6.0\refint\SortedListExample.dll
+D:\C#\C#\CSharpNangCao\SortedListExample\obj\Debug\net6.0\SortedListExample.pdb
+D:\C#\C#\CSharpNangCao\SortedListExample\obj\Debug\net6.0\SortedListExample.genruntimeconfig.cache
+D:\C#\C#\CSharpNangCao\SortedListExample\obj\Debug\net6.0\ref\SortedListExample.dll

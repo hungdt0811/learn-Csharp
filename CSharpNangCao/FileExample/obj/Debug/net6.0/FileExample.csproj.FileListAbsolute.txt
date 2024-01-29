@@ -1,0 +1,14 @@
+D:\C#\C#\CSharpNangCao\FileExample\bin\Debug\net6.0\FileExample.exe
+D:\C#\C#\CSharpNangCao\FileExample\bin\Debug\net6.0\FileExample.deps.json
+D:\C#\C#\CSharpNangCao\FileExample\bin\Debug\net6.0\FileExample.runtimeconfig.json
+D:\C#\C#\CSharpNangCao\FileExample\bin\Debug\net6.0\FileExample.dll
+D:\C#\C#\CSharpNangCao\FileExample\bin\Debug\net6.0\FileExample.pdb
+D:\C#\C#\CSharpNangCao\FileExample\obj\Debug\net6.0\FileExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#\CSharpNangCao\FileExample\obj\Debug\net6.0\FileExample.AssemblyInfoInputs.cache
+D:\C#\C#\CSharpNangCao\FileExample\obj\Debug\net6.0\FileExample.AssemblyInfo.cs
+D:\C#\C#\CSharpNangCao\FileExample\obj\Debug\net6.0\FileExample.csproj.CoreCompileInputs.cache
+D:\C#\C#\CSharpNangCao\FileExample\obj\Debug\net6.0\FileExample.dll
+D:\C#\C#\CSharpNangCao\FileExample\obj\Debug\net6.0\refint\FileExample.dll
+D:\C#\C#\CSharpNangCao\FileExample\obj\Debug\net6.0\FileExample.pdb
+D:\C#\C#\CSharpNangCao\FileExample\obj\Debug\net6.0\FileExample.genruntimeconfig.cache
+D:\C#\C#\CSharpNangCao\FileExample\obj\Debug\net6.0\ref\FileExample.dll
