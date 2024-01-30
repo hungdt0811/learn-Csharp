@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MyWebAPI_NET_Core_6.props" />
+</Project>
