@@ -7,8 +7,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Routing;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Newtonsoft.Json;
 
 namespace ASP_CORE_03
 {
@@ -36,36 +38,100 @@ namespace ASP_CORE_03
                 endpoints.MapGet("/", async context =>
                 {
                     var menu = HtmlHelper.MenuTop(
-                        new object[] {
-                            new {
-                                url = "/abc",
-                                label = "Menu Abc"
-                            },
-                            new {
-                                url = "/xyz",
-                                label = "Menu Xyz"
-                            }
-                        } , context.Request
+                        HtmlHelper.DefaultMenuTopItems(),
+                        context.Request
                     );
-                    var html = HtmlHelper.HtmlDocument("Đây là title", menu + "Hello world".HtmlTag("h1", "text-danger"));
+                    var html = HtmlHelper.HtmlDocument("Trang chủ", menu + HtmlHelper.HtmlTrangchu());
 
                     await context.Response.WriteAsync(html);
                 });
 
-                endpoints.MapGet("/RequestInfor", async (context) => {
-                    await context.Response.WriteAsync("RequestInfor");
+                endpoints.MapGet("/RequestInfo", async (context) =>
+                {
+                    var menu = HtmlHelper.MenuTop(
+                        HtmlHelper.DefaultMenuTopItems(),
+                        context.Request
+                    );
+
+                    // context.Request
+                    var info = RequestProcess.RequestInfo(context.Request).HtmlTag("div", "container");
+
+                    var html = HtmlHelper.HtmlDocument("Thông tin request", menu + info);
+
+                    await context.Response.WriteAsync(html);
                 });
-                endpoints.MapGet("/Encoding", async (context) => {
-                    await context.Response.WriteAsync("Encoding");
+
+                endpoints.MapGet("/Json", async (context) =>
+                {
+                    var menu = HtmlHelper.MenuTop(
+                        HtmlHelper.DefaultMenuTopItems(),
+                        context.Request
+                    );
+
+                    // Json
+                    var p = new
+                    {
+                        TenSP = "Dong ho Abc",
+                        Gia = 5000000,
+                        NgaySX = new DateTime(2020, 01, 30)
+                    };
+                    // Thiết lập cho client biết nội dung trả về là JSON
+                    context.Response.ContentType = "application/json";
+                    // Convert to Json
+                    var json = JsonConvert.SerializeObject(p);
+
+                    await context.Response.WriteAsync(json);
                 });
-                endpoints.MapGet("/Cookie", async (context) => {
-                    await context.Response.WriteAsync("Cookie");
+
+
+                endpoints.MapGet("/Cookies/{*action}", async (context) =>
+                {
+                    var menu = HtmlHelper.MenuTop(
+                        HtmlHelper.DefaultMenuTopItems(),
+                        context.Request
+                    );
+
+                    // lấy giá trị action
+                    var actionValue = context.GetRouteValue("action") ?? "";
+                    string message = "";
+                    if (actionValue.ToString() == "write")
+                    {
+                        // Cookies option
+                        var option = new CookieOptions() {
+                            Path = "/",                         // duong dan ma cookies co hieu luc
+                            Expires = DateTime.Now.AddDays(1)   // Thoi diem het han sau 1 ngay
+                        };
+                        // <tên cookie> - <giá trị> - <thời gian hiệu lực của cookie>
+                        context.Response.Cookies.Append("masanpham", "123", option);
+                        message = "Cookie da duoc ghi"
+                                    .HtmlTag("div", "alert alert-info container");
+                    }
+                    else if(actionValue.ToString() == "read")
+                    {
+                        // Lấy danh sách các Header và giá trị  của nó, dùng Linq để lấy
+                        var listcokie = context.Request.Cookies.Select((header) => $"{header.Key}: {header.Value}".HtmlTag("li"));
+                        message = string.Join("", listcokie).HtmlTag("ul")
+                                    .HtmlTag("div", "alert alert-danger container");
+
+                    }
+
+                    var huongdan = @"<a href='/Cookies/write'>Ghi Cookie</a><br>
+                                    <a href='/Cookies/read'>Doc Cookie</a>".HtmlTag("div", "container");
+                   
+                    var html = HtmlHelper.HtmlDocument("Cookies", menu + huongdan + message);
+
+                    await context.Response.WriteAsync(html);
                 });
-                endpoints.MapGet("/Json", async (context) => {
-                    await context.Response.WriteAsync("Json");
-                });
-                endpoints.MapGet("/Form", async (context) => {
+
+                
+                endpoints.MapGet("/Form", async (context) =>
+                {
                     await context.Response.WriteAsync("Form");
+                });
+
+                endpoints.MapGet("/Encoding", async (context) =>
+                {
+                    await context.Response.WriteAsync("Encoding");
                 });
             });
         }

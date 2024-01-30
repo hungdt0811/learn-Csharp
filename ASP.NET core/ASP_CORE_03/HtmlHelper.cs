@@ -18,6 +18,7 @@ public static class HtmlHelper
                         <head>
                             <meta charset=""UTF-8"">
                             <title>{title}</title>
+                            <link rel=""stylesheet"" href=""/css/bootstrap.min.css"" />
                             <link rel=""stylesheet"" href=""/css/site.min.css"" />
                             <script src=""/js/jquery.min.js"">
                             </script><script src=""/js/popper.min.js"">
