@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\C#\\CSharpNangCao\\HashSetExample\\HashSetExample.csproj",
+      "projectUniqueName": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\HashSetExample\\HashSetExample.csproj",
       "projectName": "HashSetExample",
-      "projectPath": "D:\\C#\\C#\\CSharpNangCao\\HashSetExample\\HashSetExample.csproj",
+      "projectPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\HashSetExample\\HashSetExample.csproj",
       "packagesPath": "C:\\Users\\hungd\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\C#\\CSharpNangCao\\HashSetExample\\obj\\",
+      "outputPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\HashSetExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hungd\\AppData\\Roaming\\NuGet\\NuGet.Config",

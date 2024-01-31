@@ -59,3 +59,6 @@ D:\Hùng\C#\ASP.NET core\ASP_CORE_03\obj\Debug\net5.0\ref\ASP_CORE_03.dll
 D:\Hùng\C#\ASP.NET core\ASP_CORE_03\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\Hùng\C#\ASP.NET core\ASP_CORE_03\obj\Debug\net5.0\ASP_CORE_03.csproj.AssemblyReference.cache
 D:\Hùng\C#\ASP.NET core\ASP_CORE_03\obj\Debug\net5.0\ASP_CORE_03.csproj.CopyComplete
+D:\Code\C#\ASP.NET\learn-csharp\ASP.NET core\ASP_CORE_03\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Code\C#\ASP.NET\learn-csharp\ASP.NET core\ASP_CORE_03\obj\Debug\net5.0\ASP_CORE_03.csproj.AssemblyReference.cache
+D:\Code\C#\ASP.NET\learn-csharp\ASP.NET core\ASP_CORE_03\obj\Debug\net5.0\ASP_CORE_03.csproj.CopyComplete

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uNMWKVs4qVSeedm1nDCYWvze9PWCw7Z1EYLj4ri7RsNbBpZMNI420lk1+QV/Z25AQdc5Ir5fZgghlD+b4FB4qQ==",
+  "dgSpecHash": "qeG1G0hEoUs9GfFUmP6U3v1Jw80bCzIxfHyjfRh3p1JNfWb2koSIBqBs1vZ4s6j8vz8jvO8ef01id4mKzLWyzw==",
   "success": true,
-  "projectFilePath": "D:\\Hùng\\C#\\ASP.NET core\\ASP_CORE_03\\ASP_CORE_03.csproj",
+  "projectFilePath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\ASP.NET core\\ASP_CORE_03\\ASP_CORE_03.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\hungt\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\hungd\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

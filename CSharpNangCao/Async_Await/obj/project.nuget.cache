@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aK0+FfkqaER8iO2jogdB4dhsN/ZDCyXXrcMZBMmytnWupIgH0m2AvXVIAl+XNqQNnQEMebNohnmhf1o0jNwR6Q==",
+  "dgSpecHash": "zu6uhN3+TZevFmzy3fKxxPfumgu+CZVawLTA1xgaPwL9eIMpbq6XgV4K54OeCLbi499j7EWVd8/xI+lJ55ONDQ==",
   "success": true,
-  "projectFilePath": "D:\\C#\\C#\\CSharpNangCao\\Async_Await\\Async_Await.csproj",
+  "projectFilePath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Async_Await\\Async_Await.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

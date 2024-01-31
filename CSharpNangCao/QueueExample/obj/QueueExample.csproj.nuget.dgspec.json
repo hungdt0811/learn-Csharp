@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\C#\\CSharpNangCao\\QueueExample\\QueueExample.csproj": {}
+    "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\QueueExample\\QueueExample.csproj": {}
   },
   "projects": {
-    "D:\\C#\\C#\\CSharpNangCao\\QueueExample\\QueueExample.csproj": {
+    "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\QueueExample\\QueueExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\C#\\CSharpNangCao\\QueueExample\\QueueExample.csproj",
+        "projectUniqueName": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\QueueExample\\QueueExample.csproj",
         "projectName": "QueueExample",
-        "projectPath": "D:\\C#\\C#\\CSharpNangCao\\QueueExample\\QueueExample.csproj",
+        "projectPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\QueueExample\\QueueExample.csproj",
         "packagesPath": "C:\\Users\\hungd\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\C#\\CSharpNangCao\\QueueExample\\obj\\",
+        "outputPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\QueueExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hungd\\AppData\\Roaming\\NuGet\\NuGet.Config",

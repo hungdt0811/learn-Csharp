@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "siyML0C1j/wjcM3bjG4ElQQ7Y0OkkwsjYvJMX8fOplrl2ZF3kx6hFNyCNYwRuUw1ZQJmx9Tp9vjoMiWtEhnmfw==",
+  "dgSpecHash": "bCWBfAPbgtQnq8gFXp+04pz6bF79BJzMGBsfT0pW5KKZDAlUMUFl6zskpY+QoIMr+Ls6OYDJ2Vkm5DJQWyDxhg==",
   "success": true,
-  "projectFilePath": "D:\\C#\\C#\\CSharpNangCao\\Event\\Event.csproj",
+  "projectFilePath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Event\\Event.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

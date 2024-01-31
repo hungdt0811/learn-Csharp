@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\C#\\CSharpNangCao\\Delegate\\Delegate.csproj": {}
+    "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Delegate\\Delegate.csproj": {}
   },
   "projects": {
-    "D:\\C#\\C#\\CSharpNangCao\\Delegate\\Delegate.csproj": {
+    "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Delegate\\Delegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\C#\\CSharpNangCao\\Delegate\\Delegate.csproj",
+        "projectUniqueName": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Delegate\\Delegate.csproj",
         "projectName": "Delegate",
-        "projectPath": "D:\\C#\\C#\\CSharpNangCao\\Delegate\\Delegate.csproj",
+        "projectPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Delegate\\Delegate.csproj",
         "packagesPath": "C:\\Users\\hungd\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\C#\\CSharpNangCao\\Delegate\\obj\\",
+        "outputPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Delegate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hungd\\AppData\\Roaming\\NuGet\\NuGet.Config",

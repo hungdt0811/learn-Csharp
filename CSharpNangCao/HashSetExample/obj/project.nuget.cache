@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tMJEkazjh3ncO4j74FlQqbAs1x9KdYKr+9udmVi5rMUJ/mm3CdFGAAICTLWDNa2E8Z6jq79eQUbNWeFqfMAtzg==",
+  "dgSpecHash": "zwq9Kdg0tsw9SBFnBgqt7kn8rXMBb/17bghyKf7MzN5lpJm7vyhT9CYTa9eVmOS5yLGJlYogO1d5MNuAsXHj5g==",
   "success": true,
-  "projectFilePath": "D:\\C#\\C#\\CSharpNangCao\\HashSetExample\\HashSetExample.csproj",
+  "projectFilePath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\HashSetExample\\HashSetExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

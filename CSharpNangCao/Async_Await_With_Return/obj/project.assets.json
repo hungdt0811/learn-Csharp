@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\C#\\CSharpNangCao\\Async_Await_With_Return\\Async_Await_With_Return.csproj",
+      "projectUniqueName": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Async_Await_With_Return\\Async_Await_With_Return.csproj",
       "projectName": "Async_Await_With_Return",
-      "projectPath": "D:\\C#\\C#\\CSharpNangCao\\Async_Await_With_Return\\Async_Await_With_Return.csproj",
+      "projectPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Async_Await_With_Return\\Async_Await_With_Return.csproj",
       "packagesPath": "C:\\Users\\hungd\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\C#\\CSharpNangCao\\Async_Await_With_Return\\obj\\",
+      "outputPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Async_Await_With_Return\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hungd\\AppData\\Roaming\\NuGet\\NuGet.Config",

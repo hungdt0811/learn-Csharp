@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rk4W6fuSU86ure8CenCRrar0OTMHHZaVlRHFmDAngB7V2G91l4I28WdcenPd4nAEOEx/wtdpSwL7hfSuR1aEbg==",
+  "dgSpecHash": "yVk6/uAn8OGJQ9FxpPqRxW3XTZrPhspsY11pUDUsM8fmHHu9+/c5GSF+FrywDF8JoLYJWOcHCawgR9A8WEX9Ug==",
   "success": true,
-  "projectFilePath": "D:\\C#\\C#\\CSharpNangCao\\FileExample\\FileExample.csproj",
+  "projectFilePath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\FileExample\\FileExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

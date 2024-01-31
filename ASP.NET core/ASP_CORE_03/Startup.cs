@@ -83,7 +83,6 @@ namespace ASP_CORE_03
                     await context.Response.WriteAsync(json);
                 });
 
-
                 endpoints.MapGet("/Cookies/{*action}", async (context) =>
                 {
                     var menu = HtmlHelper.MenuTop(
@@ -97,7 +96,8 @@ namespace ASP_CORE_03
                     if (actionValue.ToString() == "write")
                     {
                         // Cookies option
-                        var option = new CookieOptions() {
+                        var option = new CookieOptions()
+                        {
                             Path = "/",                         // duong dan ma cookies co hieu luc
                             Expires = DateTime.Now.AddDays(1)   // Thoi diem het han sau 1 ngay
                         };
@@ -106,7 +106,7 @@ namespace ASP_CORE_03
                         message = "Cookie da duoc ghi"
                                     .HtmlTag("div", "alert alert-info container");
                     }
-                    else if(actionValue.ToString() == "read")
+                    else if (actionValue.ToString() == "read")
                     {
                         // Lấy danh sách các Header và giá trị  của nó, dùng Linq để lấy
                         var listcokie = context.Request.Cookies.Select((header) => $"{header.Key}: {header.Value}".HtmlTag("li"));
@@ -117,16 +117,23 @@ namespace ASP_CORE_03
 
                     var huongdan = @"<a href='/Cookies/write'>Ghi Cookie</a><br>
                                     <a href='/Cookies/read'>Doc Cookie</a>".HtmlTag("div", "container");
-                   
+
                     var html = HtmlHelper.HtmlDocument("Cookies", menu + huongdan + message);
 
                     await context.Response.WriteAsync(html);
                 });
 
-                
-                endpoints.MapGet("/Form", async (context) =>
+                endpoints.MapMethods("/Form", new string[] {"POST", "GET"}, async (context) =>
                 {
-                    await context.Response.WriteAsync("Form");
+                    var menu = HtmlHelper.MenuTop(
+                       HtmlHelper.DefaultMenuTopItems(),
+                       context.Request
+                   );
+
+                    var formhtml = RequestProcess.ProcessForm(context.Request);
+                    var html = HtmlHelper.HtmlDocument("Test submit form html", menu + formhtml);
+
+                    await context.Response.WriteAsync(html);
                 });
 
                 endpoints.MapGet("/Encoding", async (context) =>

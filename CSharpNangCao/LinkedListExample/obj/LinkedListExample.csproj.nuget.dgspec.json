@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\C#\\CSharpNangCao\\LinkedListExample\\LinkedListExample.csproj": {}
+    "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\LinkedListExample\\LinkedListExample.csproj": {}
   },
   "projects": {
-    "D:\\C#\\C#\\CSharpNangCao\\LinkedListExample\\LinkedListExample.csproj": {
+    "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\LinkedListExample\\LinkedListExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\C#\\CSharpNangCao\\LinkedListExample\\LinkedListExample.csproj",
+        "projectUniqueName": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\LinkedListExample\\LinkedListExample.csproj",
         "projectName": "LinkedListExample",
-        "projectPath": "D:\\C#\\C#\\CSharpNangCao\\LinkedListExample\\LinkedListExample.csproj",
+        "projectPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\LinkedListExample\\LinkedListExample.csproj",
         "packagesPath": "C:\\Users\\hungd\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\C#\\CSharpNangCao\\LinkedListExample\\obj\\",
+        "outputPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\LinkedListExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hungd\\AppData\\Roaming\\NuGet\\NuGet.Config",

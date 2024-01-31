@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\C#\\CSharpNangCao\\Data_Annotation_Attribute\\Data_Annotation_Attribute.csproj": {}
+    "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Data_Annotation_Attribute\\Data_Annotation_Attribute.csproj": {}
   },
   "projects": {
-    "D:\\C#\\C#\\CSharpNangCao\\Data_Annotation_Attribute\\Data_Annotation_Attribute.csproj": {
+    "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Data_Annotation_Attribute\\Data_Annotation_Attribute.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\C#\\CSharpNangCao\\Data_Annotation_Attribute\\Data_Annotation_Attribute.csproj",
+        "projectUniqueName": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Data_Annotation_Attribute\\Data_Annotation_Attribute.csproj",
         "projectName": "Data_Annotation_Attribute",
-        "projectPath": "D:\\C#\\C#\\CSharpNangCao\\Data_Annotation_Attribute\\Data_Annotation_Attribute.csproj",
+        "projectPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Data_Annotation_Attribute\\Data_Annotation_Attribute.csproj",
         "packagesPath": "C:\\Users\\hungd\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\C#\\CSharpNangCao\\Data_Annotation_Attribute\\obj\\",
+        "outputPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Data_Annotation_Attribute\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hungd\\AppData\\Roaming\\NuGet\\NuGet.Config",

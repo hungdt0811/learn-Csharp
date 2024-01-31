@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cQDM9QxBFhwxYh2MXY8RxfqZrxSfT+wFoSfyaP6va99mhpl5QD6l2JMrWEJYwGyieUs7t38ibs1aJ8ykGbV+sA==",
+  "dgSpecHash": "XBkuqCvV5Ww4xR7Qx1cilL9MfHrPuFGg4e2/tE9Azm93jJBM5Ctitwh/SaZ9Zhc/NRuvIxcREriFCO3Chm8k8w==",
   "success": true,
-  "projectFilePath": "D:\\C#\\C#\\CSharpNangCao\\Data_Annotation_Attribute\\Data_Annotation_Attribute.csproj",
+  "projectFilePath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Data_Annotation_Attribute\\Data_Annotation_Attribute.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

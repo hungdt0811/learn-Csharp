@@ -55,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hungt\\.nuget\\packages\\": {}
+    "C:\\Users\\hungd\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Hùng\\C#\\ASP.NET core\\ASP_CORE_03\\ASP_CORE_03.csproj",
+      "projectUniqueName": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\ASP.NET core\\ASP_CORE_03\\ASP_CORE_03.csproj",
       "projectName": "ASP_CORE_03",
-      "projectPath": "D:\\Hùng\\C#\\ASP.NET core\\ASP_CORE_03\\ASP_CORE_03.csproj",
-      "packagesPath": "C:\\Users\\hungt\\.nuget\\packages\\",
-      "outputPath": "D:\\Hùng\\C#\\ASP.NET core\\ASP_CORE_03\\obj\\",
+      "projectPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\ASP.NET core\\ASP_CORE_03\\ASP_CORE_03.csproj",
+      "packagesPath": "C:\\Users\\hungd\\.nuget\\packages\\",
+      "outputPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\ASP.NET core\\ASP_CORE_03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hungt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hungd\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -117,7 +117,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

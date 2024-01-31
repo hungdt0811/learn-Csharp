@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\C#\\CSharpNangCao\\TypeExample\\TypeExample.csproj": {}
+    "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\TypeExample\\TypeExample.csproj": {}
   },
   "projects": {
-    "D:\\C#\\C#\\CSharpNangCao\\TypeExample\\TypeExample.csproj": {
+    "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\TypeExample\\TypeExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\C#\\CSharpNangCao\\TypeExample\\TypeExample.csproj",
+        "projectUniqueName": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\TypeExample\\TypeExample.csproj",
         "projectName": "TypeExample",
-        "projectPath": "D:\\C#\\C#\\CSharpNangCao\\TypeExample\\TypeExample.csproj",
+        "projectPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\TypeExample\\TypeExample.csproj",
         "packagesPath": "C:\\Users\\hungd\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\C#\\CSharpNangCao\\TypeExample\\obj\\",
+        "outputPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\TypeExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hungd\\AppData\\Roaming\\NuGet\\NuGet.Config",

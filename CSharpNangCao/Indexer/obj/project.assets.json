@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\C#\\CSharpNangCao\\Indexer\\Indexer.csproj",
+      "projectUniqueName": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Indexer\\Indexer.csproj",
       "projectName": "Indexer",
-      "projectPath": "D:\\C#\\C#\\CSharpNangCao\\Indexer\\Indexer.csproj",
+      "projectPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Indexer\\Indexer.csproj",
       "packagesPath": "C:\\Users\\hungd\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\C#\\CSharpNangCao\\Indexer\\obj\\",
+      "outputPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Indexer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hungd\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hungt\\Downloads\\C#\\C#\\CSharpNangCao\\Dependency_Injection\\Dependency_Injection.csproj": {}
+    "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Dependency_Injection\\Dependency_Injection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hungt\\Downloads\\C#\\C#\\CSharpNangCao\\Dependency_Injection\\Dependency_Injection.csproj": {
+    "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Dependency_Injection\\Dependency_Injection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hungt\\Downloads\\C#\\C#\\CSharpNangCao\\Dependency_Injection\\Dependency_Injection.csproj",
+        "projectUniqueName": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Dependency_Injection\\Dependency_Injection.csproj",
         "projectName": "Dependency_Injection",
-        "projectPath": "C:\\Users\\hungt\\Downloads\\C#\\C#\\CSharpNangCao\\Dependency_Injection\\Dependency_Injection.csproj",
-        "packagesPath": "C:\\Users\\hungt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hungt\\Downloads\\C#\\C#\\CSharpNangCao\\Dependency_Injection\\obj\\",
+        "projectPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Dependency_Injection\\Dependency_Injection.csproj",
+        "packagesPath": "C:\\Users\\hungd\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Dependency_Injection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hungt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hungd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

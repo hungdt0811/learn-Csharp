@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\C#\\CSharpNangCao\\ClassAdvanced\\ClassAdvanced.csproj": {}
+    "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\ClassAdvanced\\ClassAdvanced.csproj": {}
   },
   "projects": {
-    "D:\\C#\\C#\\CSharpNangCao\\ClassAdvanced\\ClassAdvanced.csproj": {
+    "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\ClassAdvanced\\ClassAdvanced.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\C#\\CSharpNangCao\\ClassAdvanced\\ClassAdvanced.csproj",
+        "projectUniqueName": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\ClassAdvanced\\ClassAdvanced.csproj",
         "projectName": "ClassAdvanced",
-        "projectPath": "D:\\C#\\C#\\CSharpNangCao\\ClassAdvanced\\ClassAdvanced.csproj",
+        "projectPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\ClassAdvanced\\ClassAdvanced.csproj",
         "packagesPath": "C:\\Users\\hungd\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\C#\\CSharpNangCao\\ClassAdvanced\\obj\\",
+        "outputPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\ClassAdvanced\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hungd\\AppData\\Roaming\\NuGet\\NuGet.Config",

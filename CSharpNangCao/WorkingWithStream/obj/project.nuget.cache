@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "axexRJH34MWP9B/nQbZCHq+hcywCtP8DIFHrefHlufIDiywZTicujVWU36oUnru0K9a+m+lFH/zZrrT57HfoVw==",
+  "dgSpecHash": "uXB5Y2wF8CZkjvS2hqebJUiK5Q8Do3S1Ra4PvR+ao79JcsFQsLp5dUJsGAygqKPji20Qf2zQRk/SHbdIKo4PAA==",
   "success": true,
-  "projectFilePath": "D:\\C#\\C#\\CSharpNangCao\\WorkingWithStream\\WorkingWithStream.csproj",
+  "projectFilePath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\WorkingWithStream\\WorkingWithStream.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

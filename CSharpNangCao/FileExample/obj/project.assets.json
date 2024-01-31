@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\C#\\CSharpNangCao\\FileExample\\FileExample.csproj",
+      "projectUniqueName": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\FileExample\\FileExample.csproj",
       "projectName": "FileExample",
-      "projectPath": "D:\\C#\\C#\\CSharpNangCao\\FileExample\\FileExample.csproj",
+      "projectPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\FileExample\\FileExample.csproj",
       "packagesPath": "C:\\Users\\hungd\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\C#\\CSharpNangCao\\FileExample\\obj\\",
+      "outputPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\FileExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hungd\\AppData\\Roaming\\NuGet\\NuGet.Config",

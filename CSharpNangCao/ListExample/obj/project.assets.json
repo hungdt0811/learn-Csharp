@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\C#\\CSharpNangCao\\ListExample\\ListExample.csproj",
+      "projectUniqueName": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\ListExample\\ListExample.csproj",
       "projectName": "ListExample",
-      "projectPath": "D:\\C#\\C#\\CSharpNangCao\\ListExample\\ListExample.csproj",
+      "projectPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\ListExample\\ListExample.csproj",
       "packagesPath": "C:\\Users\\hungd\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\C#\\CSharpNangCao\\ListExample\\obj\\",
+      "outputPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\ListExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hungd\\AppData\\Roaming\\NuGet\\NuGet.Config",

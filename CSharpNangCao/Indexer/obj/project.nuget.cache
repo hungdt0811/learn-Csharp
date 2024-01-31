@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IMuwI102/ZKkHvEAx6Ff6tz6I/wRwodnE7xSB4ojCIPDfAXafDawodtGnjprJM71PTiRTa+jueOqUP0sdiP9Rw==",
+  "dgSpecHash": "blQdt2JAUxUIrMghuvsDEKBEWE7B6yBJzj6Tp6KWUptxUsZQC7fqXFQ4tikIwDNyPazJOFDkQmsjqwlOXzvbHA==",
   "success": true,
-  "projectFilePath": "D:\\C#\\C#\\CSharpNangCao\\Indexer\\Indexer.csproj",
+  "projectFilePath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Indexer\\Indexer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

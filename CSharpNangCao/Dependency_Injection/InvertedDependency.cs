@@ -26,6 +26,22 @@ namespace Inverted_Dependency {
             Console.WriteLine("ClassB được tạo");
         }
     }
+    class ClassB2 : IClassB
+    {
+        IClassC c_dependency;
+        string message;
+        public ClassB2(IClassC classc, string mgs)
+        {
+            c_dependency = classc;
+            message = mgs;
+            Console.WriteLine("ClassB2 is created");
+        }
+        public void CongViecB()
+        {
+            Console.WriteLine(message);
+            c_dependency.CongViecC();
+        }
+    }
     class ClassA {
         IClassB b_dependency;
         public void CongViecA() {

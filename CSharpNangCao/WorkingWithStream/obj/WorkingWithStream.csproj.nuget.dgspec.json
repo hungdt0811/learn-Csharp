@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\C#\\CSharpNangCao\\WorkingWithStream\\WorkingWithStream.csproj": {}
+    "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\WorkingWithStream\\WorkingWithStream.csproj": {}
   },
   "projects": {
-    "D:\\C#\\C#\\CSharpNangCao\\WorkingWithStream\\WorkingWithStream.csproj": {
+    "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\WorkingWithStream\\WorkingWithStream.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\C#\\CSharpNangCao\\WorkingWithStream\\WorkingWithStream.csproj",
+        "projectUniqueName": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\WorkingWithStream\\WorkingWithStream.csproj",
         "projectName": "WorkingWithStream",
-        "projectPath": "D:\\C#\\C#\\CSharpNangCao\\WorkingWithStream\\WorkingWithStream.csproj",
+        "projectPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\WorkingWithStream\\WorkingWithStream.csproj",
         "packagesPath": "C:\\Users\\hungd\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\C#\\CSharpNangCao\\WorkingWithStream\\obj\\",
+        "outputPath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\WorkingWithStream\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hungd\\AppData\\Roaming\\NuGet\\NuGet.Config",

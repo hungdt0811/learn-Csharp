@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b3o6ohYHmlZjVrf/oZKGyTAqFl/PcDGBaFK3WbjTTIv/fM86x2j2GNF8Be2WT2EZL+t6o+idtRM615G3XwaYfQ==",
+  "dgSpecHash": "NTpiPwpGOYMAfEa6tWX9kwmdCb/LlBtEyi8D6Yfc1B/oTNbbB2t8ek8TL1x9IBsCr/zEZ/qZI2OmFlHVlFzgJQ==",
   "success": true,
-  "projectFilePath": "D:\\C#\\C#\\CSharpNangCao\\LINQExample\\LINQExample.csproj",
+  "projectFilePath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\LINQExample\\LINQExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

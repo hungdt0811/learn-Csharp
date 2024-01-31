@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1H5a8LtmtgCZ4Hsvpfw3YLP7bfuYStTifCYr6LadhGABpMqSOEoy7IH67cx/cvjNDydwntCa0kyHkzA+d905xQ==",
+  "dgSpecHash": "yiGdaOjBqgwn/D5EM+Z2iY5bSbUygFePenVUiqSEq+Snc8A7cPiv2HJNyVsGPtzqR0SNEJru7CBxiKI7UiTNwg==",
   "success": true,
-  "projectFilePath": "D:\\C#\\C#\\CSharpNangCao\\Exception\\Exception.csproj",
+  "projectFilePath": "D:\\Code\\C#\\ASP.NET\\learn-csharp\\CSharpNangCao\\Exception\\Exception.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
