@@ -17,13 +17,19 @@ namespace ef {
         public double Price {get; set;}
 
         public int CatID {get; set;}
-
         // Foreign Key
         [ForeignKey("CatID")]
-        public Category Category {get; set;} // FK -> PK
+        // [Required]
+        public virtual Category Category {get; set;} // FK -> PK
+
+        public int? Cat2ID {get; set;}
+        // Foreign Key
+        [ForeignKey("CatID2")]
+        [InverseProperty("Products")]
+        public virtual Category Category2 {get; set;} // FK -> PK
 
         public void ShowInfo() {
-            Console.WriteLine($"{ProductID} -- {Name} -- {Price}");
+            Console.WriteLine($"{ProductID} -- {Name} -- {Price} -- {CatID}");
         } 
     }
 }
